@@ -1,0 +1,13 @@
+custom:
+  usable: true
+gb17691:
+  usable: false
+  file:
+    input-path: D:\测试列表.xlsx
+    output-path: D:\测试列表.xlsx
+    size: 100
+remote:
+  host: localhost
+  port: 10086
+server:
+  port: 10001
